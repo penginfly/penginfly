@@ -1,129 +1,47 @@
-# 🐧 プログラミング勉強中 🐧
+<!-- GitHub Profile README Template -->
 
-## こんにちは！プログラミングの勉強を頑張っています！
+<h1 align="center">🚀 About Me</h1>
 
-<div align="center">
-
-```css
-@keyframes waddle {
-  0%, 100% { transform: translateX(0px) rotate(0deg); }
-  25% { transform: translateX(5px) rotate(2deg); }
-  75% { transform: translateX(-5px) rotate(-2deg); }
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes wave {
-  0%, 100% { transform: rotate(0deg); }
-  50% { transform: rotate(20deg); }
-}
-```
-
-<div style="font-family: monospace; font-size: 20px; text-align: center;">
-
-```
-    🐧
-   /   \
-  ( o o )
-  (  V  )
- /--m-m--
-```
-
-</div>
-
-<div style="animation: waddle 2s ease-in-out infinite; display: inline-block;">
-
-```
-    🐧
-   /   \
-  ( ^ ^ )
-  (  V  )
- /--m-m--
-```
-
-</div>
-
-<div style="animation: bounce 1.5s ease-in-out infinite; display: inline-block;">
-
-```
-    🐧
-   /   \
-  ( o o )
-  (  V  )
- /--m-m--
-```
-
-</div>
-
-<div style="animation: wave 1s ease-in-out infinite; display: inline-block;">
-
-```
-    🐧
-   /   \
-  ( o o )
-  (  V  )
- /--m-m--
-```
-
-</div>
-
-</div>
-
-## 🎯 現在の目標
-
-- [ ] プログラミング基礎をマスター
-- [ ] 新しい言語を学習
-- [ ] プロジェクトを作成
-- [ ] コミュニティに参加
-
-## 💻 学習中の技術
-
-```mermaid
-graph LR
-    A[プログラミング] --> B[基礎概念]
-    A --> C[アルゴリズム]
-    A --> D[データ構造]
-    B --> E[変数・関数]
-    C --> F[ソート・検索]
-    D --> G[配列・リスト]
-```
-
-## 🐧 ペンギンファクト
-
-> ペンギンは南半球に生息する海鳥で、空を飛ぶことはできませんが、水中では素晴らしい泳ぎ手です！
-> プログラミングも同じで、最初は難しいかもしれませんが、練習を重ねることで必ず上達します！
-
-## 📚 おすすめの学習リソース
-
-- **オンライン学習プラットフォーム**
-  - Codecademy
-  - freeCodeCamp
-  - Udemy
-  - Coursera
-
-- **実践的な学習**
-  - GitHub
-  - Stack Overflow
-  - Qiita（日本語）
-
-## 🎉 モチベーション
-
-<div align="center">
-
-```
-今日も一日、プログラミング頑張ろう！
-    🐧  →  💻  →  🚀
-```
-
-</div>
+<p align="center">✨ ものづくりをしています ✨</p>
 
 ---
 
-<div align="center">
+<h2>🌐 Connect with Me</h2>
 
-**Keep coding, keep learning! 🐧✨**
+<p>
+  <a href="https://x.com/koichi_2426">X</a> |
+  <a href="https://qiita.com/koichi2426">Qiita</a> |
+  <a href="https://protopedia.net/prototyper/ko2426">Protopedia</a>
+</p>
 
-</div>
+---
+
+<h2>🛠 Tech Mastery</h2>
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+
+### Web Technologies
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=rubyonrails&logoColor=fff)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
+
+### Game Development
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=fff)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile Views" />
+</p>
